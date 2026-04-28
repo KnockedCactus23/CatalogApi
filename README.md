@@ -1,6 +1,6 @@
 # CatalogApi
 
-REST API para gestión de catálogo de productos y categorías, desarrollada con .NET 8 siguiendo una arquitectura limpia por capas.
+REST API para gestión de catálogo de productos y categorías, desarrollada con .NET 8 y pruebas con Reqnroll y xUnit.
 
 ## Tecnologías
 
